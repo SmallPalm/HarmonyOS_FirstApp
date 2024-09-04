@@ -5,5 +5,9 @@
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    "@ohos/learning": "file:../../features/learning",
+    "@ohos/map": "file:../../features/map",
+    "@ohos/quickstart": "file:../../features/quickstart"
+  }
 }

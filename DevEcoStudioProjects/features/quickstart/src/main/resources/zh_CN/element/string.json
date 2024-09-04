@@ -1,8 +1,16 @@
 {
   "string": [
     {
-      "name": "page_show",
-      "value": "page from package"
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HMOS Basic"
     }
   ]
 }
